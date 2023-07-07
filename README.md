@@ -1,6 +1,6 @@
 # cek_cuaca
-
-A new Flutter project.
+Siti Hanifah
+UAS_Mobile Programming_201011402192_06TPLM006
 
 ## Getting Started
 
